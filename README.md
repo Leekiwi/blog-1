@@ -1,8 +1,7 @@
-# blog
-个人博客
+# 个人博客&学习笔记
 
-### [个人对cdn的一些理解](https://github.com/renaesop/blog/issues/1) 
+##### [个人对cdn的一些理解](https://github.com/renaesop/blog/issues/1) 
 
-### [几个DOM接口的语义解析](https://github.com/renaesop/blog/issues/3)
+##### [几个DOM接口的语义解析](https://github.com/renaesop/blog/issues/3)
 
-### [RFC6265翻译，也就是Cookie规范，较长](https://github.com/renaesop/blog/issues/4)
+##### [RFC6265翻译，也就是Cookie规范，较长](https://github.com/renaesop/blog/issues/4)

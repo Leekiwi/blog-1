@@ -5,3 +5,5 @@
 * [几个DOM接口的语义解析](https://github.com/renaesop/blog/issues/3)
 
 * [RFC6265翻译，也就是Cookie规范，较长](https://github.com/renaesop/blog/issues/4)
+
+* [互联网免费服务集锦](https://github.com/renaesop/blog/issues/2)

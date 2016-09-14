@@ -9,3 +9,5 @@
 * [互联网免费服务集锦](https://github.com/renaesop/blog/issues/2)
 
 * [call/apply漫谈](https://github.com/renaesop/blog/issues/7)
+
+* [从JS中的valueOf谈开](https://github.com/renaesop/blog/issues/10) 

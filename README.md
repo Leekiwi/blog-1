@@ -1,5 +1,7 @@
 # 个人博客&学习笔记
 
+* [突破JS的作用域规则](https://github.com/renaesop/blog/issues/12)
+
 * [个人对cdn的一些理解](https://github.com/renaesop/blog/issues/1) 
 
 * [几个DOM接口的语义解析](https://github.com/renaesop/blog/issues/3)

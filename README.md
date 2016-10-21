@@ -2,7 +2,7 @@
 
 * [突破JS的作用域规则](https://github.com/renaesop/blog/issues/12)
 
-* [webpack的对象](#16)
+* [webpack的对象](https://github.com/renaesop/blog/issues/16)
 
 * [个人对cdn的一些理解](https://github.com/renaesop/blog/issues/1) 
 

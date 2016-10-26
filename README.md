@@ -2,6 +2,8 @@
 
 * [突破JS的作用域规则](https://github.com/renaesop/blog/issues/12)
 
+* [对JS原型的一些思考](https://github.com/renaesop/blog/issues/17)
+
 * [webpack的对象](https://github.com/renaesop/blog/issues/16)
 
 * [个人对cdn的一些理解](https://github.com/renaesop/blog/issues/1) 

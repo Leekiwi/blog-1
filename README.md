@@ -1,5 +1,7 @@
 # 个人博客&学习笔记
 
+* [Node 原生模块杂谈](https://github.com/renaesop/blog/issues/21)
+
 * [突破JS的作用域规则](https://github.com/renaesop/blog/issues/12)
 
 * [使用karma实现mock](https://github.com/renaesop/blog/issues/18)
